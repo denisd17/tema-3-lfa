@@ -1,7 +1,7 @@
 from copy import deepcopy
 '''
 INPUT:
--------
+
 NR STARI
 STARI FINALE
 (S1) (S2) (CARACTER) (VARF STIVA) (NOU VARF AL STIVEI)
