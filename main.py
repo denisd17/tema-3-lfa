@@ -12,6 +12,8 @@ STARI FINALE
 #nu se trec intre paranteze rotunde, dar se pune spatiu intre ele
 #Z e caracterul de inceput al stivei
 # # este lambda
+# tranzitiile se scriu pe linii diferite
+# starile finale se scriu pe aceeasi linie
 
 #UTILIZAT PENTRU A RETINE UN ISTORIC AL TRANZITIILOR EFECTUATE (SAU VERIFICATE)
 def generareTranz(cuvant, stare1, stare2, stiva, tranz):
